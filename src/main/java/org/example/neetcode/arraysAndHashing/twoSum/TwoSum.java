@@ -1,4 +1,4 @@
-package org.example.neetcode.arraysAndHashing;
+package org.example.neetcode.arraysAndHashing.twoSum;
 
 import java.util.HashMap;
 
