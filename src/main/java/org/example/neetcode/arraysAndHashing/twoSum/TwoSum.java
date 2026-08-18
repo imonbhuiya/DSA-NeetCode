@@ -23,14 +23,4 @@ public class TwoSum {
         return new int[]{};
     }
 
-
-    public static void main(String[] args) {
-
-        int[] nums = {5, 2, 8, 3};
-        int target = 11;
-
-        int[] result = twoSum(nums, target);
-
-        System.out.println(result[0] + ", " + result[1]);
-    }
 }
