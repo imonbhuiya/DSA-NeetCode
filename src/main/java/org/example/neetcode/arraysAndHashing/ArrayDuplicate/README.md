@@ -151,18 +151,4 @@ seen.contains(number)?
 
 Loop finishes → false
 ```
-
-## Re-Solve Plan
-
-- ✅ First solve — completed
-- ✅ NeetCode — Accepted 34/34
-- ✅ Interview check
-- ⬜ Re-solve after 1 day
-- ⬜ Re-solve after 3 days
-- ⬜ Re-solve after 7 days
-- ⬜ Explain solution aloud without notes
-- ⬜ Write solution from a blank screen
-
-## Problem Link
-
 https://neetcode.io/problems/duplicate-integer
